@@ -8,6 +8,7 @@ backend/.venv
 
 # Environment files
 **/.env
+**/.env.local
 
 # OS
 .DS_Store
